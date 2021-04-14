@@ -2,4 +2,4 @@
 
 #   :robot:
 
-Este tutorial é para usuarios não avançados de linux que desejam utilizar o terminal para resolver problemas e identificar problemas no kernel do sistema local, remoto ou em dispositivos de rede com combinações de comandos que retornam respostas mais adequadas para resolução de problemas.
+Este tutorial é para usuarios não avançados de linux que desejam utilizar o terminal para resolver e identificar problemas no kernel do sistema local, remoto ou em dispositivos de rede com combinações de comandos que retornam respostas mais adequadas para resolução de problemas.
