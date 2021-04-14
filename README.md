@@ -1,5 +1,5 @@
-# github-slideshow
+# Resolvendo Problemas de Hosts e de Redecom Linux
 A robot powered training repository :robot:
-# Este é o inicio dos estudos com Github  :robot:
+#   :robot:
 
 Testando alterações no novo ramo.
