@@ -2,5 +2,4 @@
 
 #   :robot:
 
-Usando combinações de comandos linux para resolver problemas de Host e de Rede, este tutorial é para usuarios não avançados de linux que desejam utilizar o terminal
-para resolver problemas ou identificar problemas no kernel do sistema local, remoto ou em dispositivos de rede.
+Este tutorial é para usuarios não avançados de linux que desejam utilizar o terminal para resolver problemas e identificar problemas no kernel do sistema local, remoto ou em dispositivos de rede com combinações de comandos que retornam respostas mais adequadas para resolução de problemas.
