@@ -1,4 +1,4 @@
-# Resolvendo Problemas com Linux
+# Resolvendo Problemas de Suporte com Linux
 
 #   :robot:
 
