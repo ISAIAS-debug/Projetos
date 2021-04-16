@@ -5,9 +5,13 @@
 Bem, vamos lá, irei demonstrar diversos procedimentos simples no terminal Linux que me ajuram a solucionar 
 problemas durante minha atividade no suporte ao usuario:
 
+Para começo vou usar combinações de comandos com o watch, este comando atualiza a saida a cada 2 segundos de outro comando mostrando uma mudança 
+de status do sistema.
+
+
 # Situação 1 :
 Você se depara com uma Estação de trabalho usando Linux que não esta conectada a rede por algum motivo, sem equipamentos para saber se o
-problema é o cabo (em uma conexão cabeada), ou a placa de rede, o que fazer?
+problema é o cabo (em uma conexão cabeada), ou se a  placa de rede não esta subindo o link, o que fazer?
 
 - Comando :
 #watch ip addr show
@@ -27,6 +31,11 @@ OBS: Repare que a PLACA DE REDE  possui state DOWN e a PLACA DE REDE1 possui sta
  
  
  - PLACA DE REDE1 : <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+
+
+#Situação 2:
+
+
 
 
 
