@@ -13,7 +13,7 @@ problema é o cabo (em uma conexão cabeada), ou a placa de rede, o que fazer?
 #watch ip addr show
 
 - Solução:
-O comando watch combinado com o ip addr show pode ti mostrar a mudança do campo  state(UP/DOWN) da placa de rede, o que é util para saber se esta havendo o up do link quando colocamos ou retiramos o cabo.
+O comando watch combinado com o ip addr show pode ti mostrar a mudança do campo  state(UP/DOWN) da placa de rede, o que é util para saber se esta havendo o up do link quando colocamos ou DOWN quandoretiramos o cabo.
 
 watch = mostra a saida atualizando a cada 2s
 ip addr show = mostra status da placa de rede 
