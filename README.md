@@ -19,7 +19,7 @@ watch = mostra a saida atualizando a cada 2s
 ip addr show = mostra status da placa de rede 
 
 
-EXEMPLO DE SAIDA DO COMANDO watch ip addr show COM A SAIDA DE STATE PARA "PLACA DE REDE" E "PLACA DE REDE1"
+Exemplo da saida do "watch ip addr show" , para duas placas de redes "PLACA DE REDE" e "PLACA DE REDE1"
 
 OBS: Repare que a PLACA DE REDE  possui state DOWN e a PLACA DE REDE1 possui state UP
 
