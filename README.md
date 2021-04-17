@@ -5,7 +5,7 @@
 Bem, vamos lá, irei demonstrar diversos procedimentos simples no terminal Linux que me ajuram a solucionar 
 problemas durante minha atividade no suporte ao usuario:
 
-Para começo vou usar combinações de comandos com o watch, este comando atualiza a saida a cada 2 segundos de outro comando mostrando uma mudança 
+Para começo vou usar combinações de comandos com o watch, ele na forma padrão atualiza a saida a cada 2 segundos de outro comando mostrando uma mudança 
 de status do sistema.
 
 
@@ -33,7 +33,7 @@ OBS: Repare que a PLACA DE REDE  possui state DOWN e a PLACA DE REDE1 possui sta
  - PLACA DE REDE1 : <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
 
 
-#Situação 2:
+#
 
 
 
