@@ -5,6 +5,8 @@
 Bem, vamos lá, irei demonstrar diversos procedimentos simples no terminal Linux que me ajuram a solucionar 
 problemas durante minha atividade no suporte ao usuario:
 
+# COMANDO WATCH:
+
 Para começo vou usar combinações de comandos com o watch, ele na forma padrão atualiza a saida a cada 2 segundos de outro comando mostrando uma mudança 
 de status do sistema.
 
@@ -33,7 +35,19 @@ OBS: Repare que a PLACA DE REDE  possui state DOWN e a PLACA DE REDE1 possui sta
  - PLACA DE REDE1 : <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
 
 
-#
+# Situação 2 :
+Você quer saber como vai o uso da sua memoria RAM e SWAP para tomar uma  decisão sobre como melhor configurar a prioridade de quando usar SWAP ou se o PC
+precisa de mais memoria RAM ?
+
+- Comnado :
+- #watch free -h
+
+- Solução :
+Esse comando vai mostrar durante o uso do PC como esta o consumo da memoria, na medidade que você abri novos programas os status da memoria em USO e memoria 
+LIVRE vai alterando e tambem em qual momento o PC começa a usar SWAP.
+
+watch = Mostra o comando atualizando a cada 2s
+free -h = Status da memoria RAM e a opção "-h" deixa a coisa toda mais legivel.
 
 
 
